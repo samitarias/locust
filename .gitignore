@@ -1,0 +1,6 @@
+*.pem
+*.key
+*.pub
+*.ppk
+git
+git.pub
